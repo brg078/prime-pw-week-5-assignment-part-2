@@ -1,0 +1,16 @@
+body {
+    background-image: url(/Users/brettrgebbie/week5/prime-pw-week-5-assignment-part-2/assignment/record.png);
+    background-repeat: inherit;
+    margin: 0;
+}
+
+.header{
+    background-color:maroon;
+    color: burlywood;
+    text-align: center;
+}
+
+.main{
+    background-color: lightgrey;
+    padding: 1em;
+}
